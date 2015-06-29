@@ -15,7 +15,7 @@ No more opening and closing note pad just to see into .INI, .XML, .VBS, .REG, .P
     <projectUrl>http://www.winhelponline.com/blog/previewconfig-tool-registers-file-types-for-the-preview-pane-in-windows-vista/</projectUrl>
     <tags>Coding, Administration</tags>
     <copyright>Ramesh Srinivasan</copyright>
-    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/executedprogramslist/master/appicon.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/previewconfig/master/appicon.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
